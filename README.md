@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Mahathikavikondala
-- 👀 I’m interested in creating something new
+- 👋 Hi, I’m @Mahathi
 - 🌱 I’m currently studying Computer sciences
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to learn something new
 - 📫 How to reach me mahathikavikondala@gmail.com
 
 <!---
