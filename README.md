@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Mahathi
-- 🌱 I’m currently studying Computer sciences
-- 💞️ I’m looking to learn something new
+- 👋 Hi, I’m Mahathi
 - 📫 How to reach me mahathikavikondala@gmail.com
 
 <!---
