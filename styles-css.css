@@ -1,0 +1,62 @@
+body {
+    background-color: #1a9cd4;
+    background-image: 
+        radial-gradient(#333 8%, transparent 8%),
+        radial-gradient(#333 8%, transparent 8%);
+    background-position: 0 0, 25px 25px;
+    background-size: 50px 50px;
+}
+
+/* Additional styling to enhance dark theme sections */
+section {
+    background-color: rgba(30, 30, 30, 0.7);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+/* Full screen header */
+.full-screen-header {
+    height: 100vh;
+    background-color: #1e1e1e;
+}
+
+/* Navbar modifications */
+.navbar {
+    background-color: #000000 !important;
+}
+
+/* Card styles for dark mode */
+.card {
+    background-color: #2c2c2c !important;
+    border: 1px solid #444;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(255,255,255,0.2);
+}
+
+/* Icon styling */
+.nav-link i, section h2 i {
+    margin-right: 10px;
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .full-screen-header {
+        height: 100vh;
+    }
+}
